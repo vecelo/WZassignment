@@ -22,7 +22,7 @@ Notepad++ ||||
 ## 4. Setup variable enviroment for MAVEN, JAVA JDK
 
 ## 5. Manual Testcases
-<upload later>
+[Manual Testcase](https://github.com/vecelo/WZassignment/blob/master/WizeLine_Testcase.xlsx)
 
 ## 6. Import Project from Version Control with Github link
 <https://github.com/vecelo/WZassignment.git>
