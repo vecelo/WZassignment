@@ -27,7 +27,7 @@ Notepad++ ||Optional|
 
 * Open Git Bash
 * Change the current working directory to the location where you want the cloned directory
-* git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+* ```git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY```
 
 ## 6. Setup variable enviroment for MAVEN, JAVA JDK
 _This way is for quick review, your maven and jdk won't work when you restart console_
